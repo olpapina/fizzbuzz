@@ -1,0 +1,2 @@
+# fizzbuzz
+Accept number from the user, then iterates the integers from 1 to ‘user number’. For multiples of three print ‘Fizz’ instead of the number and for the multiples of five print ‘Buzz’. For numbers which are multiples of both three and five print ‘FizzBuzz’.
